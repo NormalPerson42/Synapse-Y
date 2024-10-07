@@ -1,0 +1,1 @@
+start c:\"Program Files"\"Synapse Y"\"Synapse Y"\"Synapse Y.exe"
